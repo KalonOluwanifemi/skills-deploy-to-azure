@@ -10,8 +10,8 @@ env:
   ###############################################
   ### Replace <username> with GitHub username ###
   ###############################################
-  DOCKER_IMAGE_NAME: kalon-azure-ttt
-  AZURE_WEBAPP_NAME: kalon-ttt-app
+  DOCKER_IMAGE_NAME: kalonoluwanifemi-azure-ttt
+  AZURE_WEBAPP_NAME: kalonoluwanifemi-ttt-app
   ###############################################
 
 jobs:
